@@ -1,1 +1,19 @@
-
+<html>
+<head>
+	<title>Hello World Example</title>
+	<style>
+		body {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			height: 100vh;
+			font-family: Consolas;
+			color: red;
+			background-color: #ffe7f7
+		}
+	</style>
+</head>
+<body>
+	<h1>Hello World- Rittam</h1>
+</body>
+</html>
