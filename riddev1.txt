@@ -1,0 +1,18 @@
+<html>
+<head>
+	<title>Hello World Example</title>
+	<style>
+		body {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			height: 100vh;
+			font-family: Consolas;
+			color: red;
+		}
+	</style>
+</head>
+<body>
+	<h1>Hello World- RidDevs</h1>
+</body>
+</html>
